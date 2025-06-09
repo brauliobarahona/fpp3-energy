@@ -15,7 +15,19 @@ Forecasting in this domain is essential for planning and operation of energy sys
 
 First, let us take a look at the energy domain:
 
-https://www.ipcc.ch/site/assets/uploads/2018/02/01_figure_7.1.png
+![IPPC Energy Domain](https://www.ipcc.ch/site/assets/uploads/2018/02/01_figure_7.1.png)
+
+As one could imagine 
+
+
+# Approaches to modeling in energy forecasting #
+------------------------------------------------
+Forecasting can be approached with different models, let us start focusing in forecasting of power generation from renewable energy sources, such as wind and solar power. One could use different approaches to model the power generation from these sources, such as:
+
+TODO: paste text from my slides ...
+TODO: link to well know resources ...
+TODO: summarize the approaches ...
+TODO: ... 
 
 
 # References and further resources # 
