@@ -10,25 +10,26 @@ If you are not interested in running the notebooks in [Google colab](https://col
 
 --------------------------------------------
 
-Manipulating energy has been essential for the development of human civilization. In our modern society, the energy domain is a broad field.
+Manipulating energy has been essential for the development of human civilization. In our modern society, the energy sector is a broad field that includes many different applications such as electricity, heating and cooling, transport, and industry. As such, it is one of the largest contributors to greenhouse gas emissions. Thus, the importance of removing fossil fuels for the primary energy resources.  
 
-It includes many different types of data, such as electricity demand, power generation, and prices in wholesale, short-term, and balancing markets.
-
-Forecasting in this domain is essential for planning and operation of energy systems. It is particularly important for the integration of renewable energy sources, such as wind and solar power.
-
-First, let us take a look at the energy domain! As illustrated below (Ref. [IPCC_ar5w3]) 
+The diagram below illustrates the conversion from primary energy sources to secondary energy and the delivery and storage towards before final energy use. (Ref. [IPCC_ar5w3])
 
 ![IPPC Energy Domain](https://www.ipcc.ch/site/assets/uploads/2018/02/01_figure_7.1.png)
 
 
 **!** Get more information from:
+
 - * https://www.ipcc.ch/report/ar5/wg3/
+
 - * https://www.ipcc.ch/report/ar5/wg3/energy-systems/
 
+It includes many different types of data, such as electricity demand, power generation, and prices in wholesale, short-term, and balancing markets.
 
-# Approaches to modeling in energy forecasting #
+Forecasting in this domain is essential for planning and operation of energy systems. It is particularly important for the integration of renewable energy sources, such as wind and solar power.
 
-------------------------------------------------
+## Approaches to modeling in energy forecasting ##
+
+--------------------------------------------------
 
 Forecasting can be approached with different models, let us start focusing in forecasting of power generation from renewable energy sources, such as wind and solar power. One could use different approaches to model the power generation from these sources, such as:
 
@@ -36,6 +37,7 @@ TODO: paste text from my slides ...
 TODO: link to well know resources ...
 TODO: summarize the approaches ...
 TODO: ... 
+
 
 
 # References and further resources # 
